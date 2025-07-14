@@ -19,3 +19,4 @@ Whether you're a beginner who doesn’t want to wrestle with CSS yet, or a dev w
 
 🔗 Try it here: [Insert Live Demo or GitHub Link]
 
+<img width="1366" height="768" alt="Screenshot from 2025-07-14 15-57-02" src="https://github.com/user-attachments/assets/e17d5caf-787a-4095-9b66-330bd01b60cd" />
